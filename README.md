@@ -23,4 +23,5 @@ But if you are bored, you can see see
 - 了解多方面的知识，为自己的未来发展打下坚实基础
 
 **后台博文编辑界面的截图**
-![image](https://img2024.cnblogs.com/blog/3701070/202509/3701070-20250912201243268-483265028.png)
+<img width="2559" height="1130" alt="image" src="https://github.com/user-attachments/assets/f35e0028-87c2-46fc-b6e4-e853fdc01f2e" />
+
