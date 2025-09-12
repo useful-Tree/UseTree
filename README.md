@@ -1,5 +1,5 @@
 # UseTree
-my homework, nothing
+my homework, nothing.
 But if you are bored, you can see see
 
 | 这个作业属于哪个课程 | https://edu.cnblogs.com/campus/gdgy/Class34Grade23ComputerScience                |
