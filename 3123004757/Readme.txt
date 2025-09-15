@@ -1,4 +1,8 @@
+3123004757 is my Student number, This is my homework, as you see
+
 If you run the code in an IDE, you can enter a word that 
+cd UseTree-main
+cd 3123004757
 python main.py test case/orig.txt test case/orig add.txt test case/ans.txt in the command line
 
 [3123004757]/
